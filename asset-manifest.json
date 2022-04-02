@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/boredBot/static/css/main.ee01e3b1.chunk.css",
+    "main.js": "/boredBot/static/js/main.ab8e1c30.chunk.js",
+    "main.js.map": "/boredBot/static/js/main.ab8e1c30.chunk.js.map",
+    "runtime-main.js": "/boredBot/static/js/runtime-main.e018eb19.js",
+    "runtime-main.js.map": "/boredBot/static/js/runtime-main.e018eb19.js.map",
+    "static/js/2.577ae468.chunk.js": "/boredBot/static/js/2.577ae468.chunk.js",
+    "static/js/2.577ae468.chunk.js.map": "/boredBot/static/js/2.577ae468.chunk.js.map",
+    "index.html": "/boredBot/index.html",
+    "static/css/main.ee01e3b1.chunk.css.map": "/boredBot/static/css/main.ee01e3b1.chunk.css.map",
+    "static/js/2.577ae468.chunk.js.LICENSE.txt": "/boredBot/static/js/2.577ae468.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e018eb19.js",
+    "static/js/2.577ae468.chunk.js",
+    "static/css/main.ee01e3b1.chunk.css",
+    "static/js/main.ab8e1c30.chunk.js"
+  ]
+}
